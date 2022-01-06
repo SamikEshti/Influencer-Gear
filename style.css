@@ -6,7 +6,7 @@ body {
 
 p {
     font-weight: 450;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .container {
@@ -27,7 +27,7 @@ p {
 .bio {
     border-left: 4px tomato solid;
     padding-left: 10px;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .orange {
@@ -48,7 +48,7 @@ p {
     text-decoration: none;
     background-color: tomato;
     color: white;
-    font-size: 14px;
+    font-size: 15px;
     padding: 10px 40px;
     border-radius: 5px;
 }
@@ -122,7 +122,7 @@ p {
 
 .develop-without-limits {
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .circle {
@@ -134,7 +134,7 @@ p {
 
 .know-our-global-commmunity {
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 30px;
     padding-bottom: 50px;
 }
 
