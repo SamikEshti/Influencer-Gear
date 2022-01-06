@@ -1,0 +1,176 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-weight: 450;
+    font-size: 14px;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.flexible {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 0px 5px;
+    margin: 20px;
+}
+
+.bio {
+    border-left: 4px tomato solid;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.orange {
+    color: orange;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.person img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-size: 14px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+#main-mission {
+    text-align: center;
+    font-size: 48px;
+}
+
+.mission-2022 {
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+#mission {
+    background-color: #EDF5F6;
+    padding: 30px;
+}
+
+#mission img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+#vision {
+    background-color: #FFEEEE;
+    padding: 30px;
+}
+
+#vision img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+#goals {
+    background-color: #FFF4D6;
+    padding: 30px;
+}
+
+#goals img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.width-33 {
+    width: 33%;
+    padding: 0px 5px;
+    margin: 20px;
+}
+
+.width-40 {
+    width: 40%;
+}
+
+.width-40 img {
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+.width-60 {
+    width: 60%;
+    padding: 0px 5px;
+    margin: 20px;
+}
+
+.develop-without-limits {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.circle {
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 2% 35%;
+    background-size: 15%;
+}
+
+.know-our-global-commmunity {
+    margin-top: 50px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+.circle2 {
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 98% 100%;
+    background-size: 15%;
+}
+
+#reviews {
+    text-align: center;
+    font-size: 48px;
+}
+
+.reviews img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+#comment {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.client-name {
+    text-align: right;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
