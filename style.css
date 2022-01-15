@@ -29,7 +29,7 @@ p {
 }
 
 .half-width {
-    width: 50%;
+    width: 40%;
     padding: 0px 20px;
 }
 
@@ -42,7 +42,7 @@ p {
     background-image: url(images/Circle\ design.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 60%;
+    background-size: 55%;
     padding-left: 150px;
 }
 
